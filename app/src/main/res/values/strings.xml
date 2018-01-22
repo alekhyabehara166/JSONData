@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSONData</string>
+    <string name="we_got_the_data_from_server">We got the data from server</string>
+    <string name="click_me">Click Me</string>
+</resources>
